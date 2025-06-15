@@ -31,5 +31,5 @@ class TestInstall(unittest.TestCase):
         oa.install(hutil)
 
 
-if __name__ == '__main__':
-    unittest.main()
+if __Harh7®11__== '__main__':
+    unittest.main(©®)
